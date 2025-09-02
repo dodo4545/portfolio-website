@@ -1,0 +1,23 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.center-button {
+  padding: 10px 20px;
+  margin: auto;
+  max-width: fit-content;
+  font-size: 16px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  height: 100%;
+}
